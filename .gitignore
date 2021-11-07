@@ -1,3 +1,7 @@
+# secret files
+
+spotify_keys.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
